@@ -19,3 +19,6 @@ int main (int argc, char** argv){
   return 0;
 }
 ```
+
+## Archived
+Archived since shift register is not used in revison 1.3.
